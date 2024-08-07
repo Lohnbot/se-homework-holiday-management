@@ -1,3 +1,3 @@
 export interface Holiday {
-  // TODO: Define holiday type
+  // TODO: Define the Holiday interface
 }

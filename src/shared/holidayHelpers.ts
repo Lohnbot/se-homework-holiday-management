@@ -34,7 +34,7 @@ export const DAY_TO_DAILY_HOURS_MAPPING: Record<
   6: "hoursSat",
 };
 
-// TODO: Write a doc string for the convertDateSpanToWorkDayList function
+// TODO: Write a JSdoc for the convertDateSpanToWorkDayList function
 export const convertDateSpanToWorkDayList: (
   startDateStr: string,
   endDateStr: string,

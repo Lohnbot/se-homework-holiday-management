@@ -14,7 +14,7 @@ const holidaysSlice = createSlice({
   initialState,
   reducers: {
     addHoliday: (state, action) => {
-      // TODO: Add holiday to state
+      // TODO: Implement the addHoliday reducer
     },
   },
 });
